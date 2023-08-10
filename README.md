@@ -1,5 +1,5 @@
-# codsoft
-# I have completed 3 task given for my internship in Python Programming.
+# #codsoft #pythonprogramming
+I have completed 3 tasks given for my internship in Python Programming.
 ##
 --> task:1 To-do-List
 #
